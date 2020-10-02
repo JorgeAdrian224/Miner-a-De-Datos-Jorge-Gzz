@@ -7,3 +7,5 @@
 [Presentacion Clasificacion](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Presentacion_Clasificacion_Equipo2.pdf)
 
 [Resumenes exposiciones](https://github.com/JorgeAdrian224/Miner-a-De-Datos-Jorge-Gzz/blob/main/Resumenes_1821695.pdf)
+
+[mapa mental 2](https://github.com/JorgeAdrian224/Miner-a-De-Datos-Jorge-Gzz/blob/main/MapaMental_2_1821695.pdf)
