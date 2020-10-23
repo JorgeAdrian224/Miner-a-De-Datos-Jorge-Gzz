@@ -11,3 +11,5 @@
 [mapa mental 2](https://github.com/JorgeAdrian224/Miner-a-De-Datos-Jorge-Gzz/blob/main/MapaMental_2_1821695.pdf)
 
 [Analisis BD](https://github.com/JorgeAdrian224/Miner-a-De-Datos-Jorge-Gzz/blob/main/AnalisisBD_1821695.pdf)
+
+[Ejercicios Basicos Python](https://github.com/JorgeAdrian224/Miner-a-De-Datos-Jorge-Gzz/blob/main/PythonBasico_1821695.ipynb)
