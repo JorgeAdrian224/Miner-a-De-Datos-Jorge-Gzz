@@ -15,3 +15,10 @@ ETAPA 2
 [Analisis BD](https://github.com/JorgeAdrian224/Miner-a-De-Datos-Jorge-Gzz/blob/main/AnalisisBD_1821695.pdf)
 
 [Ejercicios Basicos Python](https://github.com/JorgeAdrian224/Miner-a-De-Datos-Jorge-Gzz/blob/main/PythonBasico_1821695.ipynb)
+
+[Primer Avance PIA] (https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Avance1-PIA_Equipo9_003.pdf)
+
+FASE 3
+
+
+[Segundo Avance PIA] (https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/AvancePIA_ll_003_09.ipynb)
