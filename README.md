@@ -25,6 +25,6 @@
 
 [Segundo Avance PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/AvancePIA_ll_003_09.ipynb)
 
-[PIA FINAL](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/PIA_Final_003_Equipo09.ipynb)
+[PIA FINAL](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/PIA_003_Equipo09%20(1).ipynb)
 
-[Poster](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/Poster_Equipo09_Grupo003.pdf)
+[Poster](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Poster_Equipo09_Grupo003.pdf)
