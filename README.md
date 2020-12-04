@@ -10,7 +10,7 @@
 
 [mapa mental 2](https://github.com/JorgeAdrian224/Miner-a-De-Datos-Jorge-Gzz/blob/main/MapaMental_2_1821695.pdf)
 
-ETAPA 2
+# ETAPA 2
 
 [Analisis BD](https://github.com/JorgeAdrian224/Miner-a-De-Datos-Jorge-Gzz/blob/main/AnalisisBD_1821695.pdf)
 
@@ -18,9 +18,13 @@ ETAPA 2
 
 [Primer Avance PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Avance1-PIA_Equipo9_003.pdf)
 
-FASE 3
+# FASE 3
 [Practica 1- Limpieza](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/TrabajandoBD1_1676950.ipynb)
 
 [Practica 2- Visualización](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/TrabajandoBD2_1676950.ipynb)
 
 [Segundo Avance PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/AvancePIA_ll_003_09.ipynb)
+
+[PIA FINAL](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/PIA_Final_003_Equipo09.ipynb)
+
+[Poster](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/Poster_Equipo09_Grupo003.pdf)
